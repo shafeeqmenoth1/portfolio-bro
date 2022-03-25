@@ -1281,3 +1281,20 @@ input[type=range]::-ms-track {
     visibility: visible;
     color: #e74c3c;
 }
+
+
+
+.social-media {
+    display: flex;
+    justify-content: center;
+
+}
+
+.social-media .icons{
+    display: flex;
+
+}
+.social-media .icons .icon a i{
+    font-size: 40px;
+ color: #1d1c1b;
+}
